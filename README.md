@@ -2,6 +2,9 @@
 
 Bu proje, Aparapi kütüphanesi yardımıyla OpenCL üzerinden paralel GPU (SIMD) ve çok çekirdekli CPU (JTP) mimarilerini kullanarak N-Body yerçekimi simülasyonu gerçekleştirmektedir.
 
+<img width="1600" height="991" alt="image" src="https://github.com/user-attachments/assets/7fdb48d5-4f7c-4185-a211-d88b5b8fa7f3" />
+
+
 ##  Sistem Gereksinimleri
 - **Java JDK 8 veya daha yeni bir sürüm** (Sisteminizde Java 24 kurulu olduğu tespit edilmiştir).
 - **Maven** (Proje içerisinde yerel Maven sürümü `tools/apache-maven-3.9.6` altında hazır olarak sunulmaktadır).
